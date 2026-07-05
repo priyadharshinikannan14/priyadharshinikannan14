@@ -10,6 +10,7 @@
 
 <img align="right" width="380" src="./assets/girl_coding.png"/>
 
+
 ```python
 class Priyadharshini:
     def __init__(self):

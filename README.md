@@ -82,12 +82,13 @@ print(me.motto())
 
 ![Trophy Wall](https://img.shields.io/badge/🏆_TROPHY_WALL-38BDAE?style=for-the-badge&labelColor=0d1117)
 
-<div align="center">
+   <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=priyadharshinikannan14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
+   <img src="https://github-profile-trophy.vercel.app/?username=priyadharshinikannan14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
-<br/>
+   </div>
+
+   <br/>
 
 ![Experience](https://img.shields.io/badge/💼_EXPERIENCE-70A5FD?style=for-the-badge&labelColor=0d1117)
 

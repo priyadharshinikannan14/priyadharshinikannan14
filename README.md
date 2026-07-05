@@ -7,8 +7,8 @@
 </div>
 
 <br/>
-<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/LMt9638d08dftAjtco/giphy.gif"/>
 
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
 ```python
 class Priyadharshini:
@@ -144,8 +144,7 @@ print(me.motto())
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.E. Computer Science and Engineering | Karpagam College of Engineering, Coimbatore | 2024 – 2028 | CGPA: 8.72/10 |
-| Higher Secondary Education | Little Angels Higher Secondary School, Namakkal | 2022 – 2024 | 79.5 |
-| Secondary Education | Little Angels Matric High School, Namakkal | 2021 – 2022 | 91.8 |
+| Higher Secondary Education | Little Angels Higher Secondary School, Namakkal | 2022 – 2024 | — |
 
 </div>
 

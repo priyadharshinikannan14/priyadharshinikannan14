@@ -84,8 +84,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyadharshinikannan14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=priyadharshinikannan14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 <br/>

@@ -144,8 +144,9 @@ print(me.motto())
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.E. Computer Science and Engineering | Karpagam College of Engineering, Coimbatore | 2024 – 2028 | CGPA: 8.72/10 |
-| Higher Secondary Education | Little Angels Matric High School, Namakkal | 2021 – 2022 | 91.8 |
 | Higher Secondary Education | Little Angels Higher Secondary School, Namakkal | 2022 – 2024 | 79.5 |
+| Secondary Education | Little Angels Matric High School, Namakkal | 2021 – 2022 | 91.8 |
+
 </div>
 
 <br/>

@@ -27,7 +27,7 @@ me = Priyadharshini()
 print(me.motto())
 ```
 
-<br clear="right"/>
+<br clear="right"/> 
 
 ![Tech Stack](https://img.shields.io/badge/🛠️_TECH_STACK-70A5FD?style=for-the-badge&labelColor=0d1117)
 

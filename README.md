@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyadharshini%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Student%20%7C%20AI%2FML%20%26%20Full%20Stack%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="hero_banner.png" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Priyadharshini+%F0%9F%91%8B;CSE+Undergrad+%7C+AI%2FML+Enthusiast;MERN+Stack+Intern;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" width="380" src="girl_coding.png"/>
+<img align="right" width="380" src="./assets/girl_coding.png"/>
 
 ```python
 class Priyadharshini:

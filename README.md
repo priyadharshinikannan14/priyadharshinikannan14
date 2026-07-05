@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
 ```python
 class Priyadharshini:
@@ -29,7 +29,7 @@ print(me.motto())
 
 <br clear="right"/>
 
-## 🛠️ Tech Stack
+![Tech Stack](https://img.shields.io/badge/🛠️_TECH_STACK-70A5FD?style=for-the-badge&labelColor=0d1117)
 
 **Languages**
 
@@ -49,7 +49,7 @@ print(me.motto())
 
 <br/>
 
-## 📊 GitHub Stats
+![GitHub Stats](https://img.shields.io/badge/📊_GITHUB_STATS-BF91F3?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
 
@@ -80,7 +80,7 @@ print(me.motto())
 
 <br/>
 
-## 🏆 Trophy Wall
+![Trophy Wall](https://img.shields.io/badge/🏆_TROPHY_WALL-38BDAE?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
 
@@ -90,7 +90,7 @@ print(me.motto())
 
 <br/>
 
-## 💼 Experience
+![Experience](https://img.shields.io/badge/💼_EXPERIENCE-70A5FD?style=for-the-badge&labelColor=0d1117)
 
 <details>
 <summary><b>MERN Full Stack Development Intern @ Altruisty Innovation Pvt Ltd</b> — May 2026 to Jun 2026 | Remote/On-site</summary>
@@ -107,7 +107,7 @@ print(me.motto())
 
 <br/>
 
-## 🚀 Featured Projects
+![Featured Projects](https://img.shields.io/badge/🚀_FEATURED_PROJECTS-BF91F3?style=for-the-badge&labelColor=0d1117)
 
 > Currently building my project portfolio — check back soon! In the meantime, here's what I've been working with hands-on:
 
@@ -121,7 +121,7 @@ print(me.motto())
 
 <br/>
 
-## 🏅 Achievements
+![Achievements](https://img.shields.io/badge/🏅_ACHIEVEMENTS-38BDAE?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
 
@@ -137,20 +137,21 @@ print(me.motto())
 
 <br/>
 
-## 🎓 Education
+![Education](https://img.shields.io/badge/🎓_EDUCATION-70A5FD?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.E. Computer Science and Engineering | Karpagam College of Engineering, Coimbatore | 2024 – 2028 | CGPA: 8.72/10 |
-| Higher Secondary Education | Little Angels Higher Secondary School, Namakkal | 2022 – 2024 | — |
+| Higher Secondary Education | Little Angels Higher Secondary School, Namakkal | 2022 – 2024 | 79.5% |
+| Secondary Education | Little Angels Matric High School, Namakkal | 2021 – 2022 | 91.8% |
 
 </div>
 
 <br/>
 
-## 📚 Currently Learning
+![Currently Learning](https://img.shields.io/badge/📚_CURRENTLY_LEARNING-BF91F3?style=for-the-badge&labelColor=0d1117)
 
 ```
 🧱 MERN Stack        → MongoDB, Express.js, React, Node.js
@@ -161,7 +162,7 @@ print(me.motto())
 
 <br/>
 
-## 🌱 About Me
+![About Me](https://img.shields.io/badge/🌱_ABOUT_ME-38BDAE?style=for-the-badge&labelColor=0d1117)
 
 - 🌍 Based in Namakkal, Tamil Nadu, India
 - 💬 Interested in AI, Machine Learning, Data Science, Web Development & IoT

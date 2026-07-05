@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" width="380" src="./assets/girl_coding.png"/>
+<img align="right" width="380" src="girl_coding.png"/>
 
 ```python
 class Priyadharshini:

@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" width="380" src="./assets/girl_coding.png"/>
+<img align="right" width="380" src="C:\Users\kiruthika  kannan\Downloads\girl_coding.png"/>
 
 
 ```python

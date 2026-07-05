@@ -7,7 +7,7 @@
 </div>
 
 <br/>
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/LMt9638d08dftAjtco/giphy.gif"/>
 
 
 ```python
